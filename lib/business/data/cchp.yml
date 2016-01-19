@@ -1,0 +1,16 @@
+working_days:
+  - monday
+  - tuesday
+  - wednesday
+  - thursday
+  - friday
+
+holidays:
+  - January 1st, 2015 # New Year
+  - February 16th, 2015 # President's day
+  - February 19th, 2015 # Chinese New Year
+  - May 25th, 2015  # Memorial Day
+  - July 4th, 2015 # Independence Day
+  - September 7th, 2015 # Labor Day
+  - November 26th, 2015 # Thanksgiving
+  - December 25th, 2015 # Christmas
